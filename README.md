@@ -58,4 +58,4 @@ typedef struct binary_tree_s binary_tree_t;
 * **Memory Safety:** Ensuring every node allocated with `malloc` is properly `free`'d during tree deletion.
 
 ## ✒️ Author
-* **Ismael Bill** - [GitHub](https://github.com/Ismaelbill)
+* **Ismael Zidane** - [GitHub](https://github.com/Ismaelbill)
